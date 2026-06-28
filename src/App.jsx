@@ -1,7 +1,7 @@
-function App() {
-  return (
-    <h1>Welcome to E-Commerce Application</h1>
-  );
+import Register from "./pages/Register/Register";
+
+function App(){
+  return <Register/>;
 }
 
 export default App;
